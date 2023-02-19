@@ -1,7 +1,7 @@
-﻿using LeetCode;
+﻿using LeetCode.Solved;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LeetCodeUnitTests;
+namespace LeetCodeUnitTests.Solved;
 
 [TestClass]
 public class Task0013Test
